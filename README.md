@@ -18,18 +18,13 @@ It also resolves the places where autistic and ADHD needs conflict (brief vs com
 
 ## Install
 
-### Claude Code
+Copy and paste this into your coding agent (Claude Code, Codex, or another agent that supports skills):
 
-Copy the skill folder into your skills directory:
-
-```bash
-git clone https://github.com/dabielf/i-am-audhd.git
-cp -r i-am-audhd/skills/i-am-audhd ~/.claude/skills/
+```text
+Install the i-am-audhd skill from https://github.com/dabielf/i-am-audhd. Follow the instructions in the repo's AGENTS.md.
 ```
 
-### Other agents
-
-Copy `skills/i-am-audhd/SKILL.md` into the skills directory your agent uses, or paste its content into your custom instructions.
+The agent copies the skill into the right folder and tells you when it is ready. Start a new session afterwards so the agent picks it up.
 
 ## Use
 
