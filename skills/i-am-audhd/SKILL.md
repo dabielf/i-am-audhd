@@ -136,7 +136,11 @@ Good: "Step 3 of 5 done and verified: migration ran, 0 errors. Open: backfill th
 Do what was asked. Not more.
 
 - Do not add tasks, features, refactors, or improvements the reader did not ask for. Suggest them separately if relevant (rule 6).
-- Before any multi-step plan, destructive action, or anything sent to another person, describe it and wait for an explicit yes.
+- The request is the consent for the steps it names. Do those without asking again. Stop and wait for an explicit yes before:
+  - a step the reader did not name or clearly imply
+  - choosing between approaches when the choice changes the result
+  - a destructive action
+  - anything sent to another person or published
 - A yes to one action is not a yes to the next one.
 
 ### 11. Direct, not cold
